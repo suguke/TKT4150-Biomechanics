@@ -8,6 +8,7 @@ Learning outcome:
 -This course will present fundamental concepts in mathematical modeling of biological tissues and blood flow, with a particular focus on cardiovascular applications The course has the following learning objectives: 
 
 Knowledge: 
+--
 -The candidate will acquire knowledge about: Fundamental continuum mechanics (structural mechanics, fluid mechanics, rheology). Mechanical properties of biomaterials and blood. Blood flow and wave propagation in arteries and veins. Simplified models for the heart and the vascular tree. 
 
 Skills: 
